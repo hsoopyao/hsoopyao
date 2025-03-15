@@ -14,3 +14,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi, I'm Jiawen！
+
+
+🚀 About me
+
+- 🎯 Specialties: Cloud Computing | DevOps | Backend Development | Database Management
+
+- 🏗 Current Role: Student of Newcastle University in UK.
+
+- 🌱 Currently Exploring: Kubernetes | Azure | PostgreSQL | Cloud-Native Technologies
+
+- 🎨 Hobbies: Coding, Automation, Reading Tech Books, Fitness
+
+🛠 Tech Stack
+
+- 💻 Programming Languages: Java | Python | Bash
+
+- ☁️ Cloud Platforms: Azure | AWS | GCP
+
+- 🏗 DevOps & CI/CD: Kubernetes | Docker | Helm | Jenkins | GitHub Actions
+
+- 🗄 Databases: PostgreSQL | MySQL | Redis | MongoDB
+
+📌 Open Source Projects & Blog
+
+- 🚀 项目 1 - [Outstanding Open Source Project](https://github.com/hsoopyao/sim-gen) **Note: Still working on it**
+- 📖 项目 2 - [Tech Blog](https://hsoopyao.github.io/)
+
+📫 Contact Me
+
+- 📧 Email: yiurowan11@outlook.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoopyao&show_icons=true&theme=flag-india)
+
+
+⚡️ Motto:
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

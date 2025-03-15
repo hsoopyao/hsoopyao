@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 
 📌 Open Source Projects & Blog
 
-- 🚀 项目 1 - [Outstanding Open Source Project](https://github.com/hsoopyao/sim-gen) **Note: Still working on it**
-- 📖 项目 2 - [Tech Blog](https://hsoopyao.github.io/)
+- 🚀 Project 1 - [Outstanding Open Source Project](https://github.com/hsoopyao/sim-gen) **Note: Still working on it**
+- 📖 Project 2 - [Tech Blog](https://hsoopyao.github.io/)
 
 📫 Contact Me
 

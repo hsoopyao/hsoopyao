@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🚀 About me
 
-- 🎯 Specialties: Cloud Computing | DevOps | Backend Development | Database Management
+- 🎯 Specialties: Cloud Computing | DevOps | Backend Development | Database Management | Data Visualization
 
 - 🏗 Current Role: Student of Newcastle University in UK
 

@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 
 - 📧 Email: yiurowan11@outlook.com
 
+🔥 Keep learning
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoopyao&show_icons=true&theme=flag-india)
 
 

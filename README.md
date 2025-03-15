@@ -54,5 +54,3 @@ Here are some ideas to get you started:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsoopyao&repo=Group-Project-in-Cloud-Computing&description_lines_count=3&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hsoopyao&repo=hsoopyao.github.io&description_lines_count=3&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)

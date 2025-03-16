@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 Currently Exploring: Kubernetes | Azure | PostgreSQL | Cloud-Native Technologies
 
-- 🎨 Hobbies: Coding, Automation, Reading Tech Books, Fitness
+- 🎨 Hobbies: Coding, Basketball, Reading Tech Books, Fitness
 
 🛠 Tech Stack
 

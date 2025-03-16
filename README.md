@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🎯 Specialties: Cloud Computing | DevOps | Backend Development | Database Management | Data Visualization
 
-- 🏗 Current Role: Student of Newcastle University in UK
+- 🏗 Current Role: Master Student of Newcastle University in UK
 
 - 🌱 Currently Exploring: Kubernetes | Azure | PostgreSQL | Cloud-Native Technologies
 

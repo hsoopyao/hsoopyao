@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🏗 Current Role: Master Student of Newcastle University in UK
 
-- 🌱 Currently Exploring: Kubernetes | Azure | PostgreSQL | Cloud-Native Technologies
+- 🌱 Currently Exploring: Object Detection | Complex Data Visualization | Kubernetes | Azure | Cloud-Native Technologies
 
 - 🎨 Hobbies: Coding, Basketball, Reading Tech Books, Fitness
 

@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 - 🎯 Specialties: Cloud Computing | DevOps | Backend Development | Database Management | Data Visualization
 
-- 🏗 Current Role: Master Student of Newcastle University in UK
+- 🏗 Past: Master's student at Newcastle University in the UK
+
+- 🧑‍💻 Current Role: Software Engineer at Delta
 
 - 🌱 Currently Exploring: Object Detection | Complex Data Visualization | Kubernetes | Azure
 
@@ -38,8 +40,9 @@ Here are some ideas to get you started:
 
 📌 Open Source Projects & Blog
 
-- 🚀 Project 1 - [Outstanding Open Source Project](https://github.com/hsoopyao/sim-gen) **Note: Still working on it**
+- 🚀 Project 1 - [Outstanding Open Source Project](https://github.com/hsoopyao/sim-gen) **Note: Still working on it, but not now💦**
 - 📖 Project 2 - [Tech Blog](https://hsoopyao.github.io/)
+- 🤖 Project 3 - [Self-Local-Agent](https://github.com/hsoopyao/self-local-agent) **Keep coding...**
 
 📫 Contact Me
 

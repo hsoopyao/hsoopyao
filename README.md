@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 🔥 Keep learning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsoopyao&show_icons=true&theme=flag-india)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hsoopyao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ⚡️ Motto:

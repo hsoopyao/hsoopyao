@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 🔥 Keep learning
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hsoopyao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ⚡️ Motto:
